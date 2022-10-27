@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_X655C.mk
+    $(LOCAL_DIR)/omni_X688C.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_X655C-user \
-    omni_X655C-userdebug \
-    omni_X655C-eng
+    omni_X688C-user \
+    omni_X688C-userdebug \
+    omni_X688C-eng
