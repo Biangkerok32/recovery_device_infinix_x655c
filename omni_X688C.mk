@@ -15,10 +15,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := X655C
-PRODUCT_NAME := omni_X655C
+PRODUCT_DEVICE := X688C
+PRODUCT_NAME := omni_X688C
 PRODUCT_BRAND := infinix
-PRODUCT_MODEL := X655C
+PRODUCT_MODEL := X688C
 PRODUCT_MANUFACTURER := infinix
 
 # Dynamic Partition
